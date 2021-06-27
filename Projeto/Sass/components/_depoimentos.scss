@@ -1,0 +1,54 @@
+.depoimentos{
+    background-color: $cor-principal;
+    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
+    background-attachment: fixed;
+    color: #fff;
+    padding: 30px 0;
+
+&__item{
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+&__img{
+    margin: 0 auto;
+    display: block;
+    box-shadow: 3px 2px 0 #000;
+    margin-bottom: 30px;
+}
+&__texto{
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+&__texto::before{
+    background: url('C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_inicio.png') no-repeat;
+    content:'';
+    display: inline-block;
+    width: 25px;
+    height: 23px;
+    margin-right: 5px;
+}
+&__texto::after{
+    background: url('C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_final.png') no-repeat;
+    content:'';
+    display: inline-block;
+    width: 25px;
+    height: 23px;
+    margin-left: 5px;
+}
+&__pessoa{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+@media(min-width: $breakpoint-md){
+    padding: 50px 0;
+    &__img{
+        float: left;
+        margin-right: 15px;
+    }
+    &__pessoa{
+        text-align: left;
+    }
+}
+}
