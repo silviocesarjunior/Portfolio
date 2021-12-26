@@ -27,12 +27,12 @@ body{
 }
 
 .cabecalho{
-    backgroud: #fff;
+    background: #fff;
     padding: 15px;
 }
 
 .logo{
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/logotipo-preto.png");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/logotipo-preto.png");
     background-repeat: no-repeat;
     display: block;
     width: 120px;
@@ -41,7 +41,7 @@ body{
     margin: 0;
 }
 .logo--branco{
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/logotipo-branco.png");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/logotipo-branco.png");
 }
 
 .menu-principal_btn{
@@ -50,7 +50,7 @@ body{
     height: 50px;
     text-indent: -9999px;
     background-color: #fff;
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/menuprincipal-btn-bg.png");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/menuprincipal-btn-bg.png");
     background-repeat: no-repeat;
     background-position: 5px 5px;
     border-color: #c4c4c4;
@@ -97,7 +97,7 @@ body{
 }
 .rodape__linha-1{
     background-color: #272525;
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/rodape-bg.jpg");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/rodape-bg.jpg");
     background-size: cover;
     padding: 15px;
 }

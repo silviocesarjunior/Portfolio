@@ -4,7 +4,7 @@
     height: 50px;
     text-indent: -9999px;
     background-color: #fff;
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/menuprincipal-btn-bg.png");
+    background-image: url("../../img/menuprincipal-btn-bg.png");
     background-repeat: no-repeat;
     background-position: -48px 7px;
     border-color: #c4c4c4;
@@ -18,9 +18,9 @@
     @media(min-width: $breakpoint-md){
         display: none;
     }
-}    
+}
 
-.menu-principal__lista{
+&__lista{
     padding: 0;
     list-style: none;
     transition: margin 200ms ease-out;
@@ -32,7 +32,7 @@
     }
 }
 
-.menu-principal__item{
+&__item{
     text-decoration: none;
     font-weight: bold;
     color: #343434;
@@ -42,13 +42,11 @@
     height: 20px;
     transition: all 200ms ease-out;
 }
-
-.menu-principal__item--atual{
+&__item--atual{
     color: $cor-principal;
-
 }
-@media(max-width: $breakpoint-md - 1){
-    .menu-principal--fechado{
+@media(max-width: $breakpoint-md){
+    &--fechado{
         .menu-principal__btn{
             background-position: 5px 5px;
         }

@@ -1,5 +1,5 @@
 .cabecalho-home{
-    background: url('C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-home-bg.jpg') #000 no-repeat;
+    background: url('C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-home-bg.jpg') #000 no-repeat;
     background-size: cover;
     color: #fff;
     text-align: center;
@@ -52,7 +52,7 @@
 
 .depoimentos{
     background-color: #dd3f3f;
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
     background-attachment: fixed;
     color: #fff;
     padding: 30px 0;
@@ -76,7 +76,7 @@
 }
 
 .depoimentos__texto::before{
-    background: url('C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_inicio.png') no-repeat;
+    background: url('C:/Users/Silvio/Documents/Site_banco_dados/img/aspas_inicio.png') no-repeat;
     content:'';
     display: inline-block;
     width: 25px;
@@ -85,7 +85,7 @@
 }
 
 .depoimentos__texto::after{
-    background: url('C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_final.png') no-repeat;
+    background: url('C:/Users/Silvio/Documents/Site_banco_dados/img/aspas_final.png') no-repeat;
     content:'';
     display: inline-block;
     width: 25px;

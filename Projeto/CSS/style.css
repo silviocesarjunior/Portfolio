@@ -369,7 +369,7 @@ body {
     margin-bottom: 20px; }
   .rodape__linha-1 {
     background-color: #272525;
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/rodape-bg.jpg");
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/rodape-bg.jpg");
     background-size: cover;
     padding: 15px;
     padding-bottom: 15px;
@@ -399,7 +399,7 @@ body {
     color: #f44242; }
   @media (min-width: 768px) {
     .rodape__linha-1 {
-      background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/rodape-bg-md.jpg"); }
+      background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/rodape-bg-md.jpg"); }
     .rodape__coluna {
       float: left;
       width: 33.333%;
@@ -407,7 +407,7 @@ body {
 
 @media (min-width: 768px) and (min-width: 768px) {
   .rodape__linha-1 {
-    background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/rodape-bg-xl.jpg"); } }
+    background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/rodape-bg-xl.jpg"); } }
 
 .text-center {
   text-align: center; }
@@ -423,7 +423,7 @@ body {
 
 .depoimentos {
   background-color: #f44242;
-  background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
+  background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
   background-attachment: fixed;
   color: #fff;
   padding: 30px 0; }
@@ -439,14 +439,14 @@ body {
     line-height: 24px;
     margin-bottom: 30px; }
   .depoimentos__texto::before {
-    background: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_inicio.png") no-repeat;
+    background: url("C:/Users/Silvio/Documents/Site_banco_dados/img/aspas_inicio.png") no-repeat;
     content: '';
     display: inline-block;
     width: 25px;
     height: 23px;
     margin-right: 5px; }
   .depoimentos__texto::after {
-    background: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/aspas_final.png") no-repeat;
+    background: url("C:/Users/Silvio/Documents/Site_banco_dados/img/aspas_final.png") no-repeat;
     content: '';
     display: inline-block;
     width: 25px;
@@ -508,7 +508,7 @@ body {
         transform: translateY(-38px); } }
 
 .logo {
-  background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/logotipo-preto.png");
+  background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/logotipo-preto.png");
   background-repeat: no-repeat;
   display: block;
   width: 120px;
@@ -517,7 +517,7 @@ body {
   margin: 0; }
 
 .logo--branco {
-  background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/logotipo-branco.png"); }
+  background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/logotipo-branco.png"); }
 
 .mapa {
   background: #f44242;
@@ -548,7 +548,7 @@ body {
   height: 50px;
   text-indent: -9999px;
   background-color: #fff;
-  background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/menuprincipal-btn-bg.png");
+  background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/menuprincipal-btn-bg.png");
   background-repeat: no-repeat;
   background-position: -48px 7px;
   border-color: #c4c4c4;
@@ -596,7 +596,7 @@ body {
 
 .pagina-cabecalho {
   background-color: #f44242;
-  background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
+  background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-pagina-bg.jpg");
   background-attachment: fixed;
   color: #fff;
   padding-top: 140px;
@@ -650,7 +650,7 @@ body {
     padding-left: 90px; } }
 
 .cabecalho-home {
-  background: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-home-bg.jpg") #000 no-repeat;
+  background: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-home-bg.jpg") #000 no-repeat;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -663,7 +663,7 @@ body {
     display: none; }
   @media (min-width: 768px) {
     .cabecalho-home {
-      background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-home-bg-md.jpg"); } }
+      background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-home-bg-md.jpg"); } }
   @media (min-width: 992px) {
     .cabecalho-home {
       height: 100vh; }
@@ -675,7 +675,7 @@ body {
       .cabecalho-home__role {
         display: block;
         position: absolute;
-        background: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/icone-mouse.png") no-repeat center right;
+        background: url("C:/Users/Silvio/Documents/Site_banco_dados/img/icone-mouse.png") no-repeat center right;
         color: #fff;
         bottom: 10px;
         left: 50%;
@@ -688,7 +688,7 @@ body {
         margin-left: -95px; } }
   @media (min-width: 1200px) {
     .cabecalho-home {
-      background-image: url("C:/Users/Silvio Cesar Junior/Documents/Site_banco_dados/img/cabecalho-home-bg-xl.jpg"); } }
+      background-image: url("C:/Users/Silvio/Documents/Site_banco_dados/img/cabecalho-home-bg-xl.jpg"); } }
 
 .home__titulo {
   text-align: center;
